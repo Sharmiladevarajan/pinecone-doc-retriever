@@ -12,3 +12,7 @@ google-auth-oauthlib
 google-auth-httplib2
 google-api-python-client
 protobuf
+grpcio
+grpcio-tools
+protoc-gen-openapiv2
+
