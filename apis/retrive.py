@@ -35,10 +35,10 @@ def retrive_record(query):
         
 
             content=""
-            for i, text in enumerate(results, 1):
-                print(f"\nSource Text {i}:")
-                print(text)
-                content=content+text
+            for  text in results["matches"]:
+                
+                print(text["metadata"]["source_text"])
+                content=content+text["metadata"]["source_text"]
             # response_summary=call_llm(content)
             return content
 
