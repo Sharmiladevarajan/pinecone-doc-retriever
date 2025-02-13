@@ -1,0 +1,36 @@
+Sharmila Devarajan
+Full Stack Developer | Software Engineer
+◇	9489767312 ◇sharmiladevarajan26official@gmail.com ◇LinkedIn ◇GitHub
+
+SUMMARY
+Experienced Software Engineer with a Achieving Measurable Results of creating and enhancing scalable applications, leading seamless migration projects, and developing cutting-edge solutions to improve user satisfaction. Proficient in conducting code reviews, fostering collaboration among diverse teams, and driving continuous improvement efforts. Dedicated to delivering superior outcomes that support project success. Seeking a Full Stack Developer role with over 2 years of industry experience
+EXPERIENCE
+Software Engineer	January'23- January'25
+AVASOFT Inc	Chennai, India
+•	Designed and developed AI-enhanced web applications using React.js, Python, TypeScript, and PostgreSQL, accelerating processes and improving user experiences.
+•	Achieved a 30% increase in user engagement by implementing AI-driven features, including chatbots and personalized recommendations, leveraging Machine Learning models.
+•	Boosted operational efficiency by 30% through AI-powered backend optimization, automating workflows and enhancing overall system performance.
+•	Led cross-functional collaboration, reducing Streamlined project schedules by 15% and increasing client satisfaction by 25%
+via seamless AI solution integration.
+•	Modernized legacy systems with AI frameworks, resulting in a 30% performance boost and optimized the scalability.
+•	Achieved 90% customer satisfaction by producing high-quality, AI-driven code, conducting rigorous unit testing, and performing comprehensive code reviews.
+•	Architected and deployed serverless AI-based microservices, achieving a 25% efficiency improvement and cutting operational costs.
+•	Integrated Machine Learning models into full-stack applications, reducing deployment time by 40% using optimized CI/CD pipelines and enhancing system reliability by 20%.
+•	Launched AI-powered chatbots and personalized, data-driven solutions, significantly improving user interaction and engagement.
+•	Collaborated with 15+ stakeholders to define project requirements, resulting in the delivery of three AI-driven applications
+that aligned with business objectives and increased user engagement by 35%.
+EDUCATION
+Master of Science in Software Systems, PSG College of Arts & Science	         June '18 — May '23
+
+SKILLS
+Technical Skills: JavaScript, TypeScript, Python, Node.js, Express.js, React.js, Redux, TensorFlow, PostgreSQL, MySQL, AWS, Kafka, Unit Testing, Postman, Git, TFS.
+Core Competencies: Full Stack Development, AI/ML Application Development, Cloud Computing (AWS), Software Design, Debugging, Solution Design, Distributed Systems (Kafka).
+Soft Skills: Collaboration, Communication, Flexibility, Creativity, Leadership, Troubleshooting, organizing tasks, Precision and Accuracy, Evaluating, Reliability.
+
+PROJECTS
+Internal Accelerator Application
+•	Crafted an innovative tool to streamline design and development workflows, enhancing project quality and reducing manual effort by 40%, leading to faster project completion and improved team productivity.
+•	Implemented a user-friendly platform for automated chatbot creation, enabling end-to-end code generation for both backend and frontend. This automation reduced development time by 70% and significantly increased operational efficiency and also manual efforts that leads to decrease project timelines and increase projects & revenue.
+Client Engagements
+•	Delivered an AI-driven report automation solution, leveraging Generative AI to reduce errors by 95% and cut processing time by 60%, ensuring faster and more accurate report generation.
+•	Constructed a backend solution for automated image color correction and extraction, integrating Generative AI and Machine Learning models. This Boosted accuracy by 20%, reduced manual intervention by 50%, and accelerated project delivery timelines by 30%.
