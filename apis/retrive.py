@@ -1,8 +1,8 @@
 
 from pinecone.grpc import PineconeGRPC as Pinecone
-from pinecone import ServerlessSpec
-import time,os
+import os
 import dotenv
+from ai_helper.openai_summarizer import call_openai_llm
 dotenv.load_dotenv()
 
 
@@ -39,8 +39,8 @@ def retrive_record(query):
                 
                 print(text["metadata"]["source_text"])
                 content=content+text["metadata"]["source_text"]
-            # response_summary=call_llm(content)
-            return content
+            response_summary=call_openai_llm(content)
+            return response_summary
 
     except Exception as e:
         print(e)

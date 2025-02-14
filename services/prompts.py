@@ -27,3 +27,12 @@ summary_prompt="""
 
 
 """
+
+
+
+open_ai_summary="""
+
+**You are an experienced content analyst with expertise in summarizing complex information clearly and concisely.Your goal is to extract key points, logically organize ideas, and present them in a professional, structured manner. ** 
+**INstructions**
+"Summarize the following list of elements {content_list} in 200 words, focusing on the key features, characteristics, and significance of each element. Do not use phrases such as 'based on your input' or similar introductory statements. Ensure the summary is concise, informative, and cohesive, presenting the information in a clear and engaging manner. The summary should encapsulate the essence of the elements while avoiding any direct references to the input list itself."
+"""
